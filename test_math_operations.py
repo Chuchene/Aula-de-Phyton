@@ -8,6 +8,6 @@ def test_add(): #Definir o Teste test_add:
  
 def test_subtract(): #Definir o Teste test_subtract
     assert division(3, 3) == 1
-    assert division(6, 2) == 2
+    assert division(6, 2) == 3
     assert division(10, 2) == 5
         
