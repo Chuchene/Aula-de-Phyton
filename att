@@ -1,0 +1,11 @@
+1. **Criação de Frases:**
+    - Use variáveis de diferentes tipos e formate uma frase com os três métodos de formatação.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+2. **Tabela de Produtos:**
+    - Dado um dicionário com informações de vários produtos, formate uma tabela exibindo nome, preço e quantidade de cada produto.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+3. **Mensagens Personalizadas:**
+    - Usando f-strings, crie uma mensagem para cada aluno em uma lista de dicionários, mostrando suas notas e se foram aprovados (nota >= 6) ou reprovados.
+--------------------------------------------------------------------------------------------------------------------------------------------
